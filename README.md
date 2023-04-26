@@ -1,3 +1,7 @@
+# Bank Application Using React JS and Spring Boot
+
+![image](https://user-images.githubusercontent.com/61357479/234553967-59b16d5e-13f1-455e-86b0-32a5367ca5eb.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
