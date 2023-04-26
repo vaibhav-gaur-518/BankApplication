@@ -1,0 +1,91 @@
+  .row .add {
+    margin-top: 4%;
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .table {
+    background-color: #fff;
+    color: #333;
+    font-size: 14px;
+  }
+  
+  .table thead th {
+    background-color: hsl(218, 41%, 40%);
+    color: #fff;
+    font-weight: bold;
+    border: none;
+  }
+  
+  .table tbody tr td {
+    vertical-align: middle;
+  }
+  
+  .table td {
+    border: 1px solid #d3d3d3;
+  }
+  
+  .btn-outline-secondary {
+    border-color: #343a40;
+    color: #343a40;
+  }
+  
+  .btn-outline-secondary:hover {
+    background-color: #343a40;
+    border-color: #343a40;
+    color: #fff;
+  }
+  
+  .btn-outline-danger {
+    border-color: #dc3545;
+    color: #dc3545;
+  }
+  
+  .btn-outline-danger:hover {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff;
+  }
+  
+  .add {
+    background-color: #343a40;
+    border: none;
+    color: #fff;
+    padding: 10px 25px;
+    border-radius: 20px;
+    font-weight: bold;
+  }
+  
+  .add:hover {
+    background-color: #1e2124;
+    cursor: pointer;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .page-link {
+    border: none;
+    color: #343a40;
+    font-weight: bold;
+  }
+  
+  .page-link:hover {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+  }
+  
+  .active .page-link {
+    background-color: #343a40;
+    border-color: #343a40;
+    color: #fff;
+  }
